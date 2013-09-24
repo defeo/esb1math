@@ -1,0 +1,5 @@
+baseurl: /esb1math
+github_base: https://github.com/defeo/esb1math/blob/master
+permalink: /:categories/:title
+
+markdown: kramdown

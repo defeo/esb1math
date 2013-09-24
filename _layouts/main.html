@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+  <head lang="en">
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <style>
+      footer {
+        border-top: solid thin black;
+        font-size: small;
+      }
+      body {
+        width: 85%;
+        min-width: 200px;
+        margin: auto;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      dt {
+        font-weight: bold;
+      }
+      ul.menu {
+        list-style-type: none;
+      }
+      .menu li {
+        display: inline-block;
+        border-right: solid thin;
+        padding: 0 1ex;
+      }
+      .menu li:last-child {
+        border-right: none;
+      }
+    </style>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        config: ["MMLorHTML.js"],
+        jax: ["input/TeX","input/AsciiMath","output/HTML-CSS","output/NativeMML"],
+        extensions: ["MathMenu.js","MathZoom.js"],
+        TeX: {
+          extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+        }
+      });
+    </script>
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      {{ content }}
+
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+	<p><a rel="license"
+	   href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">
+	  <img alt="Creative Commons Licence" style="border-width:0"
+	       src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+	</a> <a href="/">Luca De Feo</a> 2013, licensed
+	under <a rel="license"
+	href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">CC
+	BY 3.0</a>.</p>
+	
+	<p>Source code available
+	  on <a href="https://github.com/defeo/esb1math">GitHub</a>,
+	  static Website generated
+	  with <a href="http://jekyllrb.com/">Jekyll</a> and kindly
+	  hosted by <a href="http://pages.github.com/">GitHub</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>

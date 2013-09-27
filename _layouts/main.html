@@ -12,7 +12,9 @@
         width: 85%;
         min-width: 200px;
         margin: auto;
+        padding-left: 20px;
       }
+      h1, h2, footer { margin-left: -20px }
       a {
         text-decoration: none;
       }
@@ -32,6 +34,10 @@
       }
       .menu li:last-child {
         border-right: none;
+      }
+
+      @media print {
+        .menu { display: none }
       }
     </style>
 

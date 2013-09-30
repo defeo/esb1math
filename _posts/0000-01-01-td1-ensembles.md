@@ -86,9 +86,9 @@ $$g\circ f:A\to C$$ définie par $$g\circ f(x) = g(f(x))$$.
 ### Ensembles finis
 
 * Soient $$A$$ et $$B$$ deux ensembles finis. Donner une formule
-  mettant en relation $$\#A, \#B, \#(A∩B)$$ et $$\#A∪B$$.
+  mettant en relation $$\#A, \#B, \#(A∩B)$$ et $$\#(A∪B)$$.
 
-**Rappel :** On note $$\mathcal{P}(A)$$ l'ensemble des parties de $A$,
+**Rappel :** On note $$\mathcal{P}(A)$$ l'ensemble des parties de $$A$$,
   c'est à dire l'ensemble de tous les sous-ensembles de $$A$$.
 
 * Démontrer que si $$A$$ est un ensemble fini, la cardinalité de

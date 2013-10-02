@@ -13,8 +13,13 @@
         min-width: 200px;
         margin: auto;
         padding-left: 20px;
+        counter-reset: section;
       }
       h1, h2, footer { margin-left: -20px }
+      h2:before {
+        counter-increment: section;
+        content: counter(section) ". ";
+      }
       a {
         text-decoration: none;
       }
@@ -53,6 +58,7 @@
       });
     </script>
     <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+    <link href="https://github.com/defeo/esb1math/commits/gh-pages.atom" rel="alternate" title="Recent Commits to esb1math:gh-pages" type="application/atom+xml" />
   </head>
   <body>
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: TD1 – Ensembles et cardinalité
 ---
 
 ## Ensembles

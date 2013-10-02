@@ -15,16 +15,16 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 ## Liste des cours et TDs
 
 30 Septembre
-: Théorie des ensembles naïve, paradoxe de Russel. Cardinalité, Ensembles dénombrables.
+: [Théorie des ensembles naïve, paradoxe de Russel, cardinalité, Ensembles dénombrables, argument de Cantor.](theorie-des-ensembles)
 : [TD1: Ensembles](td1-ensembles)
 
 7 Octobre
 : 
 
-14 Octobre
+14 Octobre (par [Jacques Patarin][jacques])
 : 
 
-4 Novembre
+4 Novembre (par [Jacques Patarin][jacques])
 : 
 
 18 Novembre
@@ -72,3 +72,8 @@ L. De Feo. *IN310 -- Mathèmatique pour l'informatique*.
 
 J. Vélu, G. Avérous, I. Gil, F. Santi. *Mathématiques pour l'Informatique*.
 : Dunod 2008. ISBN 978-10-052052-7. Côte BU : 004.01 VEL
+
+
+
+
+[jacques]: http://www.prism.uvsq.fr/~jap/ "Home page de Jacques Patarin"

@@ -19,7 +19,8 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD1: Ensembles](td1-ensembles)
 
 7 Octobre
-: 
+: [Relations, équivalences, ordres.](relations-equivalences-ordres)
+: [TD2: Relations](td2-relations)
 
 14 Octobre (par [Jacques Patarin][jacques])
 : 

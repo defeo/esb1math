@@ -3,7 +3,7 @@ layout: post
 title: Théorie naïve des ensembles
 ---
 
-## Arguments abordés
+## Sujets abordés
 
 * Définition naïve d'ensemble et de fonction;
 * [Paradoxe de Russel](http://fr.wikipedia.org/wiki/Paradoxe_de_Russell);

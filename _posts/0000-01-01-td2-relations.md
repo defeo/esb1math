@@ -57,7 +57,7 @@ Dessiner les graphes des fonctions suivantes et de leurs inverses.
 1. La fonction $$f : \mathbb{R} \to \mathbb{R}$$ définie par $$f(x) = 1/x$$ ;
 
 On rappelle qu'un graphe est une relation. Dans les cas ci-dessus, s'agit-il de relations réflexives, symétriques, transitives ?
-
+{: .force-page-break}
 
 ## Diagrammes de Hasse
 

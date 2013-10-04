@@ -6,7 +6,8 @@
     <style>
       footer {
         border-top: solid thin black;
-        font-size: small;
+        font-size: smaller;
+       margin-top: 4ex;
       }
       body {
         width: 85%;
@@ -48,8 +49,11 @@
       }
       
       @media print {
-        .menu, footer { display: none }
+        .dont-print { display: none }
         body { font-size: 9pt }
+        a.print-link:after { content: " <" attr(href) ">" }
+        h1, h2, h3, h4 { page-break-after: avoid }
+	.force-page-break { page-break-after: always }
       }
     </style>
 
@@ -80,12 +84,12 @@
 	   href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">
 	  <img alt="Creative Commons Licence" style="border-width:0"
 	       src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
-	</a> <a href="/">Luca De Feo</a> 2013, licensed
-	under <a rel="license"
+	</a> <a href="http://defeo.lu" class="print-link">Luca De Feo</a> 2013, licensed
+	under <a rel="license" class="print-link"
 	href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">CC
 	BY 3.0</a>.</p>
 	
-	<p>Source code available
+	<p class="dont-print">Source code available
 	  on <a href="https://github.com/defeo/esb1math">GitHub</a>,
 	  static Website generated
 	  with <a href="http://jekyllrb.com/">Jekyll</a> and kindly

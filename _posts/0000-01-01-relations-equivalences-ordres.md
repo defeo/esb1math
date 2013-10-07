@@ -8,8 +8,7 @@ title: Relations, équivalences, ordres
 * Définition de relation, relations réflexives, symétriques, transitives ;
 * Graphe d'une fonction ;
 * Relations d'équivalence, classes d'équivalence ;
-* Ordres, treillis, ensembles bien ordonnés ;
-* [Ordinaux](http://fr.wikipedia.org/wiki/Nombre_ordinal) ?
+* Ordres, treillis ;
 
 
 ## Sources

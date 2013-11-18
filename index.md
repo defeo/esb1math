@@ -29,7 +29,7 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : 
 
 18 Novembre
-: 
+: [TD5: Logique booléenne](td5-boole)
 
 25 Novembre
 : 

@@ -32,7 +32,7 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD5: Logique booléenne](td5-boole)
 
 25 Novembre
-: 
+: [TD6: Calcul des prédicats](td6-predicats) 
 
 2 Décembre
 : 

@@ -13,7 +13,8 @@ title: Calcul des prédicats
 	- Si quelqu’un fume, je suis gêné ;
 	- Si tout le monde fume, je suis gêné ;
 	- Un enseignant est heureux si tous ses étudiants aiment la logique ;
-	- Chaque ville a un employé de la fourrière qui a été mordu par chaque chien de la ville.
+	- Chaque ville a un employé de la fourrière qui a été mordu par chaque chien de la ville ;
+	- Il existe un seul Dieu.
 
 2. En utilisant la *signature* $$+,-,\times,=,\ge$$ et les constantes
    numérales, traduire en langage logique les phrases suivantes.
@@ -97,7 +98,7 @@ dernières règles peuvent être appliquées en toute circonstance.
 D'autres règles de transformation peuvent être déduites à partir de
 celles que nous venons de donner.
 
-1. À l'aide des Mettre les prédicats suivants en forme normale prénexe :
+1. À l'aide des règles ci-dessus, mettre les prédicats suivants en forme normale prénexe :
 
 	* $$\neg (\forall x. \exists y. (x + y = 1))$$ ;
 	* $$\neg((\forall x. R(x)) \wedge (\forall x. S(x)))$$ ;

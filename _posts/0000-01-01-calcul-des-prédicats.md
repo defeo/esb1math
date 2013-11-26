@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calcul des propositions
+title: Syntaxe du calcul des prédicats
 ---
 
 ## Sujets abordés 

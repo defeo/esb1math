@@ -29,13 +29,16 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : 
 
 18 Novembre
+: [Logique boléenne, calcul des propositions](calcul-des-propositions)
 : [TD5: Logique booléenne](td5-boole)
 
 25 Novembre
+: [Syntaxe du calcul des prédicats, forme normale prénexe](calcul-des-prédicats)
 : [TD6: Calcul des prédicats](td6-predicats) 
 
 2 Décembre
-: 
+: Devoir sur table
+: TD7: Sémantique du calcul des prédicats
 
 9 Décembre
 : 

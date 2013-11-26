@@ -5,16 +5,16 @@ title: Calcul des propositions
 
 ## Sujets abordés 
 
-* Connecteurs du calcul des propositions ;
-* Logique booléenne, tables de vérité ;
-* Équivalences remarquables.
+* Connecteurs du calcul des prédicats ;
+* Variables liées et libres, α-rennommage ;
+* Équivalences remarquables, forme normale prénexe.
 
 
 ## Sources
 
 
-* [Arnold - Guessarian](../#bibliographie), Sections 5.1 -- 5.2 ;
-* [Vélu](../#bibliographie), Chapitre 13 ;
+* [Arnold - Guessarian](../#bibliographie), Section 5.3 ;
+* [Vélu](../#bibliographie), Chapitre 14 ;
 * [David - Nour - Raffalli](../#bibliographie), Sections 1.1 -- 1.2.
 
 Attention: Arnold et Guessarian utilisent pour l'implication tantôt le

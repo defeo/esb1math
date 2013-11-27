@@ -47,13 +47,20 @@
         margin: auto;
         text-align: center;
       }
+      input[type="number"] {
+        width: 6ex;
+      }
+
+      .sagecell_output_elements, .sagecell_output_elements * {
+        display: inline
+      }
       
       @media print {
         .dont-print { display: none }
         body { font-size: 9pt }
         a.print-link:after { content: " <" attr(href) ">" }
         h1, h2, h3, h4 { page-break-after: avoid }
-	.force-page-break { page-break-after: always }
+	.footer, .force-page-break { page-break-after: always }
       }
     </style>
 
@@ -72,29 +79,41 @@
   </head>
   <body>
 
-    <div class="container">
+    <ul class="menu dont-print" id="top-menu">
+      <li><a href="{{ site.baseurl }}/">Home</a></li>
+      <li><a href="{{ site.github_base }}/{{ page.path }}">Source</a></li>
+      <li><a href="javascript:window.print()">Print</a></li>
+    </ul>
 
-      {{ content }}
+    <div class="main">
+      <div class="container">
 
+	{{ content }}
+
+      </div>
+
+      <footer class="footer">
+	<div class="container">
+	  <p><a rel="license"
+		href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">
+	      <img alt="Creative Commons Licence" style="border-width:0"
+		   src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+	    </a> <a href="http://defeo.lu" class="print-link">Luca De Feo</a> 2013, licensed
+	    under <a rel="license" class="print-link"
+		     href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">CC
+	      BY 3.0</a>.</p>
+	  
+	  <p class="dont-print">Source code available
+	    on <a href="https://github.com/defeo/esb1math">GitHub</a>,
+	    static Website generated
+	    with <a href="http://jekyllrb.com/">Jekyll</a> and kindly
+	    hosted by <a href="http://pages.github.com/">GitHub</a>.</p>
+	</div>
+      </footer>
     </div>
 
-    <footer class="footer">
-      <div class="container">
-	<p><a rel="license"
-	   href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">
-	  <img alt="Creative Commons Licence" style="border-width:0"
-	       src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
-	</a> <a href="http://defeo.lu" class="print-link">Luca De Feo</a> 2013, licensed
-	under <a rel="license" class="print-link"
-	href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">CC
-	BY 3.0</a>.</p>
-	
-	<p class="dont-print">Source code available
-	  on <a href="https://github.com/defeo/esb1math">GitHub</a>,
-	  static Website generated
-	  with <a href="http://jekyllrb.com/">Jekyll</a> and kindly
-	  hosted by <a href="http://pages.github.com/">GitHub</a>.</p>
-      </div>
-    </footer>
+    {% for s in page.scripts %}
+    <script src="{{ s }}"></script>
+    {% endfor %}
   </body>
 </html>

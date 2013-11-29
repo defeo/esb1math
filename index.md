@@ -38,7 +38,7 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 
 2 Décembre
 : Devoir sur table
-: TD7: Sémantique du calcul des prédicats
+: [TD7: Sémantique du calcul des prédicats](td7-modeles)
 
 9 Décembre
 : 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calcul des prédicats
+title: TD6 – Calcul des prédicats
 ---
 
 ## Modélisation du langage

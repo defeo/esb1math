@@ -37,14 +37,17 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD6: Calcul des prédicats](td6-predicats) 
 
 2 Décembre
-: Devoir sur table
+: [Théorie des modèles du calcul des propositions et du calcul des prédicats](theorie-des-modeles)
+: [Devoir sur table](assets/cc2013-1.pdf)
 : [TD7: Sémantique du calcul des prédicats](td7-modeles)
 
 9 Décembre
+: [Théorie de la preuve du calcul des propositions](preuve)
 : [TD8: Théorie de la preuve](td8-preuve)
 
 16 Décembre
-: 
+: [Théorie de la preuve du calcul des prédicats, systèmes de preuve à la Hilbert](preuve)
+: [TD9: Théorie de la preuve](td9-preuve)
 
 6 Janvier
 : 

@@ -37,8 +37,8 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD6: Calcul des prédicats](td6-predicats) 
 
 2 Décembre
-: [Théorie des modèles du calcul des propositions et du calcul des prédicats](theorie-des-modeles)
 : [Devoir sur table](assets/cc2013-1.pdf)
+: [Théorie des modèles du calcul des propositions et du calcul des prédicats](theorie-des-modeles)
 : [TD7: Sémantique du calcul des prédicats](td7-modeles)
 
 9 Décembre
@@ -58,6 +58,21 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 20 Janvier
 : 
 
+## Devoir maison
+
+[Sujet du DM](DM), à faire individuellement ou en binôme. La date
+limite pour rendre le devoir est fixée au 13 janvier au matin. Une
+seule rédaction par binôme, a rendre
+
+* soit manuscrite et remise en main propre le jour du cours ;
+* soit au format pdf, rédigée en LaTeX (pour les débutants en LaTeX il
+  est possible d'utiliser le logiciel [LyX](http://www.lyx.org/)), et
+  envoyée par mail ;
+* soit au format html, utilisant la technologie MathJax (la même
+  utilisée pour ces pages), envoyée par mail ou hebergée par vos soins.
+
+Word, openoffice et autres logiciels ne permettant pas un rendu
+correct des mathématiques, s'abstenir.
 
 ## Bibliographie
 

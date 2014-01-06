@@ -50,6 +50,7 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD9: Théorie de la preuve](td9-preuve)
 
 6 Janvier
+: [Quelques exemples de théories](theories)
 : [TD10: Théories](td10-theories)
 
 13 Janvier

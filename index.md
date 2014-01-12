@@ -54,7 +54,8 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 : [TD10: Théories](td10-theories)
 
 13 Janvier
-: 
+: [TD11: Arithmétique de Peano et induction](td11-induction)
+
 
 20 Janvier
 : 

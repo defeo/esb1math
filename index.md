@@ -58,7 +58,10 @@ Cours les lundis de 8h00 à 9h30, TDs de 9h45 à 12h15, salle 113
 
 
 20 Janvier
-: 
+: [Devoir sur table](assets/cc2013-2.pdf)
+: Correction du premier DS
+: Correction du DM
+
 
 ## Devoir maison
 
